@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kraznov
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me "Afterlife"
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning Nothing
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me "Nowhere"
 
 <!---
 Kraznov/Kraznov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
